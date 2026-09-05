@@ -4,7 +4,7 @@ body {
     text-align: center;
 }
 #hero{
-   background-image: url("../images/galaxy.webp");
+   background-image: url("images/galaxy.webp");
    background-size: cover;
    background-position: center;
    padding: 20px 0 350px;
